@@ -1,0 +1,9 @@
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\bin\Debug\jasonDiaz_Assign1.exe
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\bin\Debug\jasonDiaz_Assign1.pdb
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\bin\Debug\CountryDataLibrary.dll
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\bin\Debug\CountryDataLibrary.pdb
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\obj\Debug\jasonDiaz_Assign1.csprojAssemblyReference.cache
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\obj\Debug\jasonDiaz_Assign1.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\obj\Debug\jasonDiaz_Assign1.csproj.CopyComplete
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\obj\Debug\jasonDiaz_Assign1.exe
+C:\Users\jason\source\repos\jasonDiaz_Assign1\jasonDiaz_Assign1\obj\Debug\jasonDiaz_Assign1.pdb

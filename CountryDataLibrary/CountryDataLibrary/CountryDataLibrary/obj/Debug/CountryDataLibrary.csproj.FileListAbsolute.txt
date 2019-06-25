@@ -1,0 +1,5 @@
+C:\Users\jason\source\repos\CountryDataLibrary\CountryDataLibrary\bin\Debug\CountryDataLibrary.dll
+C:\Users\jason\source\repos\CountryDataLibrary\CountryDataLibrary\bin\Debug\CountryDataLibrary.pdb
+C:\Users\jason\source\repos\CountryDataLibrary\CountryDataLibrary\obj\Debug\CountryDataLibrary.csproj.CoreCompileInputs.cache
+C:\Users\jason\source\repos\CountryDataLibrary\CountryDataLibrary\obj\Debug\CountryDataLibrary.dll
+C:\Users\jason\source\repos\CountryDataLibrary\CountryDataLibrary\obj\Debug\CountryDataLibrary.pdb
